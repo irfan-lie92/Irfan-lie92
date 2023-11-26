@@ -1,10 +1,5 @@
 # Assalamualaikum Warohumatullahi Wabarakatu 👋
 ## Welcome to My Profile
-### Hi, I'm Irfan Ali, I'm a Web Developer.
-
-[![](https://img.shields.io/badge/-irfan-lie92-black?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/irfan-lie92)
-
-### I'm Web Developer
 
 - 🔭 I’m currently working at Pemerintah Desa Pasayangan, Perpustakaan Jendela Dunia, LKP Les Privat Digital and PT. UMKM Alamanah Solution
 - 🌱 I’m currently learning about technology
