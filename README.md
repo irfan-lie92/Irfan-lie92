@@ -1,7 +1,3 @@
-### Hi there 👋
-
-**irfan-lie92/Irfan-lie92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Assalamualaikum Warohumatullahi Wabarakatu 👋
 ## Welcome to My Profile
 ### Hi, I'm Irfan Ali, I'm a Web Developer.
