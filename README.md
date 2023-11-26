@@ -1,15 +1,12 @@
 ### Hi there 👋
 
-<!--
 **irfan-lie92/Irfan-lie92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div align="center">
-<h3>Assalamualaikum Warohmatullahi Wabarakatu 👋,</h3>
-<p>Welcome to My Profile</p>
-<p>Hi, I'm Irfan Ali, I'm a Web Developer. Check <a href="#">ℹ️</a> For More Information.</p>
+# Assalamualaikum Warohumatullahi Wabarakatu 👋
+## Welcome to My Profile
+### Hi, I'm Irfan Ali, I'm a Web Developer.
 
 [![](https://img.shields.io/badge/-irfan-lie92-black?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/irfan-lie92)
-</div>
 
 ### I'm Web Developer
 
