@@ -1,11 +1,11 @@
 # Assalamualaikum Warohumatullahi Wabarakatu 👋
 ## Welcome to My Profile
 
-- 🔭 I’m currently working at Pemerintah Desa Pasayangan, Perpustakaan Jendela Dunia, LKP Les Privat Digital and PT. UMKM Alamanah Solution
+- 🔭 I’m currently working at Pemerintah Desa Pasayangan, Head Of Perpustakaan Jendela Dunia, Owner at LKP Les Privat Digital and Owner at PT. UMKM Alamanah Solution
 - 🌱 I’m currently learning about technology
-- 💬 Ask me about PHP native, codeigniter, Python
+- 💬 Ask me about Html, PHP native, codeigniter, Python, Machine Learning
 - 📫 How to reach me: connect with my social media
-- 😄 Fun fact: I like Reading and Writing ⛰️
+- 😄 Fun fact: I like Reading and Writing 
 
 #### Languages:
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
