@@ -27,7 +27,7 @@
 <br/>
 
 <!-- status codes -->
-<a align="center" href="https://irfan-lie92.github.io">
+<a align="center" href="https://irfan.desapasayangan.my.id">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=irfan-lie92&show_icons=true&theme=radical" alt="my github stats" width="393"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-lie92&hide=tsql,less,shell&langs_count=10&theme=radical&layout=compact" alt="languages" height="155">
     </p>
